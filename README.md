@@ -3,7 +3,7 @@ Lots of features and bugs need to be fixed, these are some screenshots at curren
 
 
 
-![](https://i.imgur.com/HgOmcem.jpg | width=100)
+![](https://i.imgur.com/HgOmcem.jpg =250x250)
 
 
 ![](https://i.imgur.com/ZRjNVnw.jpg | width=100)
